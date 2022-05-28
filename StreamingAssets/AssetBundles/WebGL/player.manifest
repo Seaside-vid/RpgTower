@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1627865234
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f83f6f14560ccaf4e251ef8dbab02af8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a0277389f42c306c43f4c2e19ebc9734
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f7ef17c21ec457409514db055acb92a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Warrior Pack Bundle 2 FREE/Mage Warrior Mecanim Animation Pack/Prefabs/Mage
+  Warrior.prefab
+Dependencies: []

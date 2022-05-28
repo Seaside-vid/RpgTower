@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1522688171
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: player
+      Dependencies: {}
+    Info_1:
+      Name: back
+      Dependencies: {}
